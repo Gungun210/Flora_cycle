@@ -1,4 +1,4 @@
-import "./Story.css";
+import "./story.css";
 
 import { useEffect, useState } from "react";
 
