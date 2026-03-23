@@ -1,7 +1,7 @@
 // src/api.js
 // Central file for all API calls to your backend
 
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://floracycle-production.up.railway.app/api";
 
 // ── Get stored token ──
 export const getToken = () => localStorage.getItem("fc_token");
